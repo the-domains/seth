@@ -2,6 +2,7 @@ name: seth
 favicon: null
 layout_spectrum: 0.3066649353131652
 typography_spectrum: 0.562244969420135
+title: seth story
 cta:
   domain: null
   bucket: null
